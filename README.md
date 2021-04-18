@@ -1,6 +1,8 @@
 
 # README.MD Generator
- 
+
+[Link to walkthrough](https://www.youtube.com/watch?v=lqB8JCEe7Qo&ab_channel=DaishaMarrow)
+
 ## License:
 ![license](https://img.shields.io/badge/license-MIT-blue)
  
